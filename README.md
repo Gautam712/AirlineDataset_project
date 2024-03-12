@@ -1,10 +1,10 @@
                                                        Airline customer research survey
 
-OverView:
+OverView:-
 
 This dataset contains customer reviews of All airlines, covering various aspects of their in-flight experience, including numbers, reviews, flight profiles and passenger profiles This dataset covers the period from July 2023 to January 2024 ho.
 
-DataSet Description:
+DataSet Description:-
 
 Recorded_date: The date the survey was recorded.
 
@@ -46,14 +46,16 @@ Value_For_Money: Value for money rating (from 1 to 5).
 
 Recommended: Whether the reviewer recommends the airline (yes/no).
 
-Analysis tools:
+Analysis tools:-
 
 The Databricks platform can be used for analytics. 
+
 Databricks provides an integrated analytics platform built on top of Apache Spark that allows scalable data manipulation and analysis.
 
-Evaluation Steps:
+Evaluation Steps:-
 
 Data Loading: Load dataset from storage into Databricks.
+
 Data Analysis: Analyze a data set to understand its structure, columns, and basic statistics.
 
 Data cleaning: Perform data cleaning tasks such as handling missing values, removing duplicates, and standardizing data structures.
@@ -69,7 +71,7 @@ Extract key insights: Extract key insights from data about areas of strength and
 Graphics: Create charts, diagrams and other graphics to effectively present research findings.
 
 
-Conclusion:
+Conclusion:-
 
 Based on the survey, the airline can identify areas for improvement in service delivery, customer satisfaction and efficiency. 
 Addressing these areas can lead to an improved customer experience and improve overall performance. In addition, understanding customer sentiment from reviews can help airlines better tailor their services to customer expectations.
