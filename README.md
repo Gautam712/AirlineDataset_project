@@ -7,24 +7,43 @@ This dataset contains customer reviews of All airlines, covering various aspects
 DataSet Description:
 
 Recorded_date: The date the survey was recorded.
+
 Airline_name : Name of the airline (Aegean Airlines).
+
 Rating: The rating of the customer (from 1 to 10).
+
 Subject: The subject of the research.
+
 Name : Name of the reviewer.
+
 Flown_Date: The date of the flight.
+
 Review: A comprehensive review of the flight experience.
+
 Aircraft: Type of aircraft used for flight.
-Type_Of_Traveller: Type of traveler (e.g., solo vacation, couple vacation, family vacation, business).
+
+Type_Of_Traveller: Type of traveler.
+
 Seat_Type: Seat type (e.g., economy class, business class).
-Route: Flight route (round trip).
+
+Route: Flight route.
+
 Date_Flown: The date of the flight.
+
 Seat_Comfort: Rating for seat comfort (from 1 to 5).
+
 Cabin_Staff_Service: Rating of cabin crew service (from 1 to 5).
+
 Food___Drinks: Number of food and drinks (from 1 to 5).
+
 Inflight_Entertainment: Rating for inflight entertainment (from 1 to 5).
+
 Ground_Service: Rating for ground service (from 1 to 5).
+
 Wifi___Connection: Number of Wi-Fi connections (from 1 to 5).
+
 Value_For_Money: Value for money rating (from 1 to 5).
+
 Recommended: Whether the reviewer recommends the airline (yes/no).
 
 Analysis tools:
