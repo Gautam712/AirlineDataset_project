@@ -2,7 +2,7 @@
 
 OverView:-
 
-This dataset contains customer reviews of All airlines, covering various aspects of their in-flight experience, including numbers, reviews, flight profiles and passenger profiles This dataset covers the period from July 2023 to January 2024 ho.
+This dataset contains customer reviews of All airlines, covering various aspects of their in-flight experience, including numbers, reviews, flight profiles and passenger profiles This dataset covers all type of airline data and their details.
 
 DataSet Description:-
 
